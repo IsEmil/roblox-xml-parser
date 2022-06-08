@@ -1,0 +1,40 @@
+<roblox version="4">
+    <Item class="Part" referent="RBXrSXHVRUgfHRUZIDaKRQYKbdvXZbGJEqB">
+        <Properties>
+            <Vector3 name="Position">
+                <X>-7</X>
+                <Y>4</Y>
+                <Z>-4</Z>
+            </Vector3>
+            <Vector3 name="Size">
+                <X>17</X>
+                <Y>13</Y>
+                <Z>5</Z>
+            </Vector3>
+            <Color3uint8 name="Color3uint8">1132267109</Color3uint8>
+            <string name="Name">Part</string>
+            <bool name="CanCollide">false</bool>
+            <bool name="Anchored">false</bool>
+            <token name="shape">2</token>
+        </Properties>
+        <Item class="Part" referent="RBXrSXHVRUgfHRUZIDaKRQYKbdvXZbGJEqB">
+        <Properties>
+            <Vector3 name="Position">
+                <X>-7</X>
+                <Y>4</Y>
+                <Z>-4</Z>
+            </Vector3>
+            <Vector3 name="Size">
+                <X>17</X>
+                <Y>13</Y>
+                <Z>5</Z>
+            </Vector3>
+            <Color3uint8 name="Color3uint8">1132267109</Color3uint8>
+            <string name="Name">g</string>
+            <bool name="CanCollide">false</bool>
+            <bool name="Anchored">false</bool>
+            <token name="shape">2</token>
+        </Properties>
+    </Item>
+    </Item>
+</roblox>
